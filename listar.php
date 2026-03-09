@@ -31,4 +31,5 @@ $videojuegos = $resultado->fetch_all(MYSQLI_ASSOC);
                 <?php } ?>
             </tbody>
         </table>
+        <a href="index.html"><button type="button" class="btn btn-danger">Tornar a l'index</button></a>
 <?php include_once "footer.php"; ?>

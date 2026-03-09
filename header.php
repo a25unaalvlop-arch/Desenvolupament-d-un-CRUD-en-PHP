@@ -10,5 +10,5 @@
 
 <body>
     <main class="container-fluid">
-        <h2>Gestor de videojocs</h2>
+        <h2><img src="NES-Console-Set.png" alt="" style="width:100px;height:60px;">Gestor de videojocs</h2>
         <br>
